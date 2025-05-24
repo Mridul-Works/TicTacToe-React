@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { TicTacToe } from './Components/Assets/TicTacToe/TicTacToe';
 
 function App() {
   return (
